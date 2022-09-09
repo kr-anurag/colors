@@ -2,17 +2,16 @@
 
 A fork of `@radix-ui/colors` with chakra ui's theme support.
 
-A quick guide on using Radix Colors with Stitches.
+
+## Installation
+
+`yarn add radix-chakra-colors`
 
 ## Documentation
 
 For full documentation, visit [radix-ui.com/docs/colors](https://radix-ui.com/docs/colors).
 
-## Installation
-
-`yarn add @radix-ui/colors`
-
-## Usage with Chakra UI
+## Usage with Chakra UI (addition)
 
 ```jsx
 import { extendTheme } from "@chakra-ui/react";
